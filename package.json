@@ -1,0 +1,18 @@
+{
+  "name": "com.enemyhideout.commander",
+  "version": "0.0.1",
+  "displayName": "Commander",
+  "description": "A small Command pattern library, mainly for my own usage.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/robotron2084/commander",
+  "changelogUrl": "https://github.com/robotron2084/commander/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/robotron2084/commander/blob/main/LICENSE",
+  "dependencies": { },
+  "keywords": [  ],
+  "author": {
+    "name": "Chris Hill",
+    "email": "chris@enemyhideout.com",
+    "url": "https://www.enemyhideout.com"
+  }
+}
