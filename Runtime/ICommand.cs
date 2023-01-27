@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace com.enemyhideout.commander
+namespace com.enemyhideout.commands
 {
   public interface ICommand
   {

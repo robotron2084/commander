@@ -1,8 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using com.enemyhideout.commander;
 
-namespace Code
+namespace com.enemyhideout.commands
 {
   public class StaggerCommands : ICommand
   {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace com.enemyhideout.commander
+namespace com.enemyhideout.commands
 {
   public static class CommanderCore
   {
